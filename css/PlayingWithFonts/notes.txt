@@ -1,0 +1,73 @@
+TOTAL 41 SECTION
+22 3,4,5,6
+23 7,8,9
+24 10,11,12,13,14
+25 15,16,17
+26 18,19,20,21
+27 22,23,24
+28 25,26,27
+29 28,29,30
+30 31,32,33
+31 34,35,36
+1 37,38,39
+2 40,41
+
+
+
+
+
+
+
+HTML is for structure and content of page
+<!DOCTYPE> tells its html 5
+<!-- CONTENT -->
+
+use
+
+<em> instead of <i>
+<strong> instead of <b>
+
+
+<form action = action says where to send data
+method= get or post
+	get searching retrieveing ie getting data ..login
+	post sending data or posting content..signup
+	
+<label> main purpose of label is for visually impaired
+<label for="username">username</label>
+<input id="username">...
+
+validation
+
+<input type="text"..... required/>
+
+Radio button
+For more than 1 selection
+Dogs <input type="radio" id="dogs"/>
+Add same name for each input for unique selection
+ALWAYS GIVE NAME FOR INPUTS
+
+CSS
+
+li
+{
+
+}
+li a
+{
+
+}
+li+a
+{
+
+}
+
+input[type="text"]
+{
+
+}
+
+
+font-size: 2.0em; 
+em sets size dynamically
+here 2 times than text in same paragraph
